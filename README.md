@@ -4,7 +4,7 @@ Planejamento de montagem para o projeto final do módulo de técnicas de program
 
 Alunos:
 - Darlinne Hubert Palo Soto
-- Giovanni Mendes
+- Giovanni Mendes Lima
 
 Dataset usado: State of Data Brazil 2022
 
